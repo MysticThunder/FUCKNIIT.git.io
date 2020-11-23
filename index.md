@@ -272,7 +272,7 @@
                                                 <li class="select-item">
                                                     <div class="select-btn">
                                                         <div class="btn-wrapper"><i
-                                                                    class="x-icon select-icon iconfont-fx-mobile icon-department"></i>
+                                                                class="x-icon select-icon iconfont-fx-mobile icon-department"></i>
                                                         </div>
                                                     </div>
                                                     <span class="select-text">26.计算机与软件学院</span></li>
@@ -356,13 +356,13 @@
                                 <div class="widget-data-view" data-widgetname="_widget_1601129685212">
                                     <div class="widget-label">请假开始时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-02 08:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 07:00</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1601129685235">
                                     <div class="widget-label">请假结束时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-02 21:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 22:00</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1590847812307">
@@ -445,13 +445,13 @@
                                 <div class="widget-data-view" data-widgetname="_widget_1590847813404">
                                     <div class="widget-label">拟返校时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-02 20:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 20:00</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1590847814573">
                                     <div class="widget-label">申请时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-02 13:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 07:00</div>
                                     </div>
                                 </div>
                             </div>
@@ -584,32 +584,32 @@
                                     <div class="chart-content" style="width: 240px; height: 627px;">
                                         <div class="x-flow-node flow-selector node-type-done" data-id="0"
                                              style="top: 40px; left: 40px; width: 160px; height: 40px;"><i
-                                                    class="x-icon node-icon iconfont-fx-mobile icon-flow-start"></i>
+                                                class="x-icon node-icon iconfont-fx-mobile icon-flow-start"></i>
                                             <div class="node-name">学生请假</div>
                                         </div>
                                         <div class="x-flow-node flow-selector node-type-done" data-id="1"
                                              style="top: 141px; left: 40px; width: 160px; height: 40px;"><i
-                                                    class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
+                                                class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
                                             <div class="node-name">班主任审批</div>
                                         </div>
                                         <div class="x-flow-node flow-selector node-type-undone" data-id="2"
                                              style="top: 236px; left: 40px; width: 160px; height: 40px;"><i
-                                                    class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
+                                                class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
                                             <div class="node-name">辅导员审批</div>
                                         </div>
                                         <div class="x-flow-node flow-selector node-type-undone" data-id="3"
                                              style="top: 331px; left: 40px; width: 160px; height: 40px;"><i
-                                                    class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
+                                                class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
                                             <div class="node-name">副书记审批</div>
                                         </div>
                                         <div class="x-flow-node flow-selector node-type-doing" data-id="5"
                                              style="top: 439px; left: 40px; width: 160px; height: 40px;"><i
-                                                    class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
+                                                class="x-icon node-icon iconfont-fx-mobile icon-flow-write"></i>
                                             <div class="node-name">学生销假</div>
                                         </div>
                                         <div class="x-flow-node flow-selector node-type-undone" data-id="-1"
                                              style="top: 547px; left: 40px; width: 160px; height: 40px;"><i
-                                                    class="x-icon node-icon iconfont-fx-mobile icon-power-off"></i>
+                                                class="x-icon node-icon iconfont-fx-mobile icon-power-off"></i>
                                             <div class="node-name">流程结束</div>
                                         </div>
                                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
