@@ -356,19 +356,19 @@
                                 <div class="widget-data-view" data-widgetname="_widget_1601129685212">
                                     <div class="widget-label">请假开始时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 07:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-24 07:00</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1601129685235">
                                     <div class="widget-label">请假结束时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 22:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-24 22:00</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1590847812307">
                                     <div class="widget-label">请假天数总计</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-view"></div>
+                                        <div class="fxm-form-view">1</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1590847812563">
@@ -451,7 +451,7 @@
                                 <div class="widget-data-view" data-widgetname="_widget_1590847814573">
                                     <div class="widget-label">申请时间</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-datetime fxm-form-view">2020-11-23 07:00</div>
+                                        <div class="fxm-form-datetime fxm-form-view">2020-11-24 07:00</div>
                                     </div>
                                 </div>
                             </div>
