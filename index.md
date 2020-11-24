@@ -242,7 +242,7 @@
                                 <div class="widget-data-view" data-widgetname="_widget_1590847810716">
                                     <div class="widget-label">学号</div>
                                     <div class="widget-data">
-                                        <div class="fxm-form-text-data fxm-form-view">2002932219</div>
+                                        <div class="fxm-form-text-data fxm-form-view">2002932218</div>
                                     </div>
                                 </div>
                                 <div class="widget-data-view" data-widgetname="_widget_1590847816169">
